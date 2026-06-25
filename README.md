@@ -58,31 +58,6 @@ public class Paccanaro18 {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Paccanaro18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paccanaro18&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Paccanaro18&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paccanaro18&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📌 Projetos em Destaque
 
 > Alguns projetos que mostram minha evolução como desenvolvedor:
