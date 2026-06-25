@@ -89,7 +89,7 @@ public class Paccanaro18 {
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🔗 [**Em breve**](#) | API REST com autenticação JWT | Java, Spring Boot, Spring Security |
+| 🔗 [**Auth API**](https://github.com/Paccanaro18/auth.api) | API REST com autenticação JWT | Java, Spring Boot, Spring Security, Docker |
 | 🔗 [**Em breve**](#) | Sistema de gerenciamento com CRUD completo | Java, Spring Boot, MySQL |
 | 🔗 [**Em breve**](#) | Desafio de algoritmos e estruturas de dados | Java |
 
@@ -99,7 +99,7 @@ public class Paccanaro18 {
 
 ## 📚 Atualmente aprendendo
 
-- 🐳 **Docker** — containerização de aplicações
+- ✅ **Docker** — containerização de aplicações
 - ☁️ **Cloud** — AWS / conceitos de infraestrutura
 - 🧪 **Testes** — JUnit 5 e Mockito
 - 📐 **Clean Architecture** — boas práticas e padrões de projeto
