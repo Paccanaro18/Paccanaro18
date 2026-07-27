@@ -65,8 +65,7 @@ public class Paccanaro18 {
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🔗 [**Auth API**](https://github.com/Paccanaro18/auth.api) | API REST com autenticação JWT | Java, Spring Boot, Spring Security, Docker |
-| 🔗 [**Em breve**](#) | Sistema de gerenciamento com CRUD completo | Java, Spring Boot, MySQL |
-| 🔗 [**Em breve**](#) | Desafio de algoritmos e estruturas de dados | Java |
+| 🔗 [**Gateway de Pagamentos**](#) | Gateway de Pagamentos Simulado | Java, Spring Boot, MySQL, Google (OAuth2/OIDC)|
 
 > 💡 *Confira os repositórios fixados abaixo para ver meu código!*
 
