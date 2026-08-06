@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor de software com curiosidade constante em aprender e melhorar. Meu foco é escrever **código limpo e reutilizável**, e acredito que a melhor forma de crescer é colaborando e compartilhando conhecimento.
 
-Estou em busca da minha **primeira oportunidade profissional** na área de desenvolvimento — animado para contribuir, aprender na prática e crescer junto com um time incrível! 🚀
+Estou em busca da minha **primeira oportunidade profissional** na área de desenvolvimento  animado para contribuir, aprender na prática e crescer junto com um time incrível! 🚀
 
 ```java
 public class Paccanaro18 {
