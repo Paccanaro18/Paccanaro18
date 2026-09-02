@@ -66,7 +66,8 @@ public class Paccanaro18 {
 |---|---|---|
 | 🔗 [**Auth API**](https://github.com/Paccanaro18/auth.api) | API REST com autenticação JWT | Java, Spring Boot, Spring Security, Docker |
 | 🔗 [**Gateway de Pagamentos**](https://github.com/Paccanaro18/gateway-pagamento-simulado) | Gateway de Pagamentos Simulado | Java, Spring Boot, MySQL, Google (OAuth2/OIDC)|
-
+| 🔗 [**Docker Manager**](https://github.com/Paccanaro18/Docker-Manager) | API REST para gerenciar containers Docker | Java, Spring Boot, Docker, JUnit 5, GitHub Actions |
+| 🔗 [**Distributed Rate Limiting**](https://github.com/Paccanaro18/rate-limit-test) | Serviço de rate limiting distribuído | Java, Spring Boot, Redis, Prometheus, Grafana |
 > 💡 *Confira os repositórios fixados abaixo para ver meu código!*
 
 ---
