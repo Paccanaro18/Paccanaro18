@@ -1,105 +1,41 @@
-<div align="center">
+# Artur Paccanaro
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Paccanaro18+👋;Software+Engineer;Java+%7C+Spring+Boot+%7C+Backend;Código+limpo+e+reutilizável+✨)](https://git.io/typing-svg)
+**`Backend Java Engineer`**
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Paccanaro18&color=6A0DAD&style=flat-square&label=Visitas+no+perfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-paccanaro-196b34359/)
-[![GitHub followers](https://img.shields.io/github/followers/Paccanaro18?style=flat-square&color=6A0DAD)](https://github.com/Paccanaro18)
-
-</div>
+Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção de APIs, microsserviços e sistemas robustos e escaláveis. Tenho experiência prática com PostgreSQL, Redis, autenticação, integrações, gateways, testes automatizados e boas práticas de desenvolvimento, com atenção à qualidade, organização e manutenibilidade do código. Possuo conhecimentos iniciais em AWS e venho ampliando meus conhecimentos em cloud, buscando compreender cada vez melhor o desenvolvimento, deploy e operação de aplicações em ambientes distribuídos. Estou em busca da minha primeira oportunidade profissional como desenvolvedor, onde possa transformar meus conhecimentos em soluções reais, aprender com desafios do dia a dia e evoluir continuamente como engenheiro de software.
 
 ---
 
-## 👨‍💻 Sobre mim
+### 🧰 Linguagens e Tecnologias
 
-Sou um desenvolvedor de software com curiosidade constante em aprender e melhorar. Meu foco é escrever **código limpo e reutilizável**, e acredito que a melhor forma de crescer é colaborando e compartilhando conhecimento.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-Estou em busca da minha **primeira oportunidade profissional** na área de desenvolvimento  animado para contribuir, aprender na prática e crescer junto com um time incrível! 🚀
-
-```java
-public class Paccanaro18 {
-
-    String[] foco       = { "Java", "Spring Boot", "Backend Development" };
-    String[] aprendendo = { "Microsserviços", "Docker", "SQL & JPA" };
-    String   objetivo   = "Primeira oportunidade como Dev Backend 🎯";
-    boolean  openToWork = true;
-
-    public String getMotivacao() {
-        return "Código limpo hoje, arquitetura sólida amanhã.";
-    }
-}
-```
+<br />
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📌 Projetos
 
-### Linguagens & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🔗 **[Auth API](https://github.com/Paccanaro18/auth.api)** — Autenticação com JWT e Spring Security • Java • Spring Boot • PostgreSQL
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=databricks&logoColor=white)
+💰 **[Gateway de Pagamentos](https://github.com/Paccanaro18/gateway-pagamento-simulado)** — Gateway simulado com OAuth2/OIDC e QR Code • Java • Spring Boot • MySQL • OAuth2
 
-### Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+📦 **[Rate Limiting Service](https://github.com/Paccanaro18/rate-limit-test)** — Serviço de rate limiting distribuído com Token Bucket • Java • Redis • Prometheus • Grafana
+
+🐳 **[Docker Manager](https://github.com/Paccanaro18/Docker-Manager)** — API REST para gerenciar containers Docker • Java • Docker • JUnit 5 • GitHub Actions
+
+💼 **[Mini Wallet](https://github.com/Paccanaro18)** — API de carteira digital com transferências • Java • Spring Boot • JPA • PostgreSQL
 
 ---
 
-## 📌 Projetos em Destaque
-
-> Alguns projetos que mostram minha evolução como desenvolvedor:
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🔗 [**Auth API**](https://github.com/Paccanaro18/auth.api) | API REST com autenticação JWT | Java, Spring Boot, Spring Security, Docker |
-| 🔗 [**Gateway de Pagamentos**](https://github.com/Paccanaro18/gateway-pagamento-simulado) | Gateway de Pagamentos Simulado | Java, Spring Boot, MySQL, Google (OAuth2/OIDC)|
-| 🔗 [**Docker Manager**](https://github.com/Paccanaro18/Docker-Manager) | API REST para gerenciar containers Docker | Java, Spring Boot, Docker, JUnit 5, GitHub Actions |
-| 🔗 [**Distributed Rate Limiting**](https://github.com/Paccanaro18/rate-limit-test) | Serviço de rate limiting distribuído | Java, Spring Boot, Redis, Prometheus, Grafana |
-> 💡 *Confira os repositórios fixados abaixo para ver meu código!*
-
----
-
-## 📚 Atualmente aprendendo
-
-- ✅ **Docker** — containerização de aplicações
-- ☁️ **Cloud** — AWS / conceitos de infraestrutura
-- 🧪 **Testes** — JUnit 5 e Mockito
-- 📐 **Clean Architecture** — boas práticas e padrões de projeto
-- 🔍 **LeetCode** — desafios para afiação de lógica e algoritmos
-
----
-
-## 🤝 Vamos nos conectar?
-
-Estou aberto a oportunidades, colaborações e troca de conhecimento!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me+encontre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-paccanaro-196b34359/)
-[![Gmail](https://img.shields.io/badge/Gmail-paccanaro18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paccanaro18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Paccanaro18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paccanaro18)
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/🎯_Open_to_Work-Disponível_para_oportunidades-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-paccanaro-196b34359/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paccanaro18@gmail.com)
