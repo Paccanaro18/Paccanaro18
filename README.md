@@ -35,7 +35,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção d
 
 💼 **[Mini Wallet](https://github.com/Paccanaro18)** — API de carteira digital com transferências • Java • Spring Boot • JPA • PostgreSQL
 
----
+--- 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-paccanaro-196b34359/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paccanaro18@gmail.com)
