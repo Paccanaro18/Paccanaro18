@@ -3,7 +3,7 @@
 **`Backend Java Engineer`**
 
 Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção de APIs, microsserviços e sistemas robustos e escaláveis. Tenho experiência prática com PostgreSQL, Redis, autenticação, integrações, gateways, testes automatizados e boas práticas de desenvolvimento, com atenção à qualidade, organização e manutenibilidade do código. Possuo conhecimentos iniciais em AWS e venho ampliando meus conhecimentos em cloud, buscando compreender cada vez melhor o desenvolvimento, deploy e operação de aplicações em ambientes distribuídos. Estou em busca da minha primeira oportunidade profissional como desenvolvedor, onde possa transformar meus conhecimentos em soluções reais, aprender com desafios do dia a dia e evoluir continuamente como engenheiro de software.
-
+ 
 ---
  
 ### 🧰 Linguagens e Tecnologias
