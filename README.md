@@ -35,7 +35,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção d
 
 💼 **[Mini Wallet](https://github.com/Paccanaro18)** — API de carteira digital com transferências • Java • Spring Boot • JPA • PostgreSQL
 
-🔐 [Fintech Core](https://github.com/Paccanaro18/fintech-core) — API de fintech com autenticação JWT, transferências, depósitos e saques • Java • Spring Boot • Spring Security • PostgreSQL • AWS EC2 • Docker • GitHub Actions
+🔐 [Fintech Core](https://github.com/Paccanaro18/fintech-core) — API de fintech com autenticação JWT, transferências, depósitos e saques  Java  Spring Boot  Spring Security  PostgreSQL  AWS EC2  Docker  GitHub Actions
 
 --- 
 
