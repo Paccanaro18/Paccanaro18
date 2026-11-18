@@ -25,7 +25,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção d
 
 ## 📌 Projetos
 
-🦊 **[Koda]([LINK-DO-KODA](https://github.com/Paccanaro18/kodadev))** — Plataforma que conecta seu repositório do GitHub e usa IA pra propor desafios de programação em cima do seu próprio código • STACK
+🦊 **[Koda](https://github.com/Paccanaro18/kodadev)** — Plataforma que conecta seu repositório do GitHub e usa IA pra propor desafios de programação em cima do seu próprio código • STACK
 
 💰 **[Gateway de Pagamentos](https://github.com/Paccanaro18/gateway-pagamento-simulado)** — Gateway simulado com OAuth2/OIDC e QR Code • Java • Spring Boot • MySQL • OAuth2
 
