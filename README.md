@@ -25,7 +25,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção d
 
 ## 📌 Projetos
 
-🔗 **[Auth API](https://github.com/Paccanaro18/auth.api)** — Autenticação com JWT e Spring Security • Java • Spring Boot • PostgreSQL
+🦊 **[Koda]([LINK-DO-KODA](https://github.com/Paccanaro18/kodadev))** — Plataforma que conecta seu repositório do GitHub e usa IA pra propor desafios de programação em cima do seu próprio código • STACK
 
 💰 **[Gateway de Pagamentos](https://github.com/Paccanaro18/gateway-pagamento-simulado)** — Gateway simulado com OAuth2/OIDC e QR Code • Java • Spring Boot • MySQL • OAuth2
 
@@ -33,7 +33,7 @@ Desenvolvedor backend com foco em Java e Spring Boot, dedicado à construção d
 
 🐳 **[Docker Manager](https://github.com/Paccanaro18/Docker-Manager)** — API REST para gerenciar containers Docker • Java • Docker • JUnit 5 • GitHub Actions
 
-💼 **[Mini Wallet](https://github.com/Paccanaro18)** — API de carteira digital com transferências • Java • Spring Boot • JPA • PostgreSQL
+🥑 **[abacatepay-java](https://github.com/Paccanaro18/abacatepay-java)** — Starter Spring Boot para a API v2 da AbacatePay • Java • Spring Boot • Open Source
        
 🔐 [Fintech Core](https://github.com/Paccanaro18/fintech-core) — API de fintech com autenticação JWT, transferências, depósitos e saques  Java  Spring Boot  Spring Security  PostgreSQL  AWS EC2  Docker  GitHub Actions
 
